@@ -1,5 +1,4 @@
 # **Goutam Agrawal**
-📞 **+91 84570 15138**  
 📧 **goutamagrawalchintu@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/goutam-agrawal-197287177/)**  
 🔗 **[Google Scholar](https://scholar.google.com/citations?user=r0AeF3AAAAAJ&hl=en)**  
