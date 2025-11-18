@@ -159,16 +159,3 @@ TensorFlow, PyTorch
 
 ---
 
-## **References**
-
-- **Ms. Deepika H V**  
-  Scientist E, Joint Director, CDAC Bangalore  
-  ✉️ deepikahv@cdac.in  
-
-- **Dr. Anupam Biswas**  
-  Assistant Professor, Dept. of CSE, NIT Silchar  
-  ✉️ anupam@cse.nits.ac.in  
-
-- **Dr. Sujata Chakravarty**  
-  Professor, Dean SoET, CUTM  
-  ✉️ sujata.chakravarty@cutm.ac.in  
